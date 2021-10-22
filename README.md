@@ -17,10 +17,14 @@ quando a temperatura estiver acima de 10°C.
 * Motor CC
 * Transistor NPN (BJT)
 * 1 kΩ Resistor
+* 100 Ω Resistor
 * Diodo
+* Catódica Visor de sete segmentos
+* Decodificador de sete segmentos
+
 
 ## Screenshots
 
 <div>
-<img height="300" src="prototipo\img\circuito.png" />
+<img height="300" src="prototipo\img\prototipo.gif" />
 </div>
