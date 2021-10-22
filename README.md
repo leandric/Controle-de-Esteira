@@ -20,11 +20,10 @@ quando a temperatura estiver acima de 10°C.
 * 100 Ω Resistor
 * Diodo
 * Catódica Visor de sete segmentos
-* Decodificador de sete segmentos
 
 
 ## Screenshots
 
 <div>
-<img height="300" src="prototipo\img\prototipo.gif" />
+<img height="380" src="prototipo\img\prototipov2.gif" />
 </div>
