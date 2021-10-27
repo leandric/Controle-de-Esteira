@@ -12,18 +12,20 @@ quando a temperatura estiver acima de 10°C.
 
 ## Material Utilizado
 
-* Arduino Uno
-* Sensor de temperatura [TMP36]
-* Motor CC
-* Transistor NPN (BJT)
-* 1 kΩ Resistor
-* 100 Ω Resistor
-* Diodo
+* Arduino Uno R3
 * Catódica Visor de sete segmentos
-
+* Transistor NPN(BJT)
+* Diodo
+* 1 KΩ Resistor
+* 200Ω Resistor
+* Sensor de Temperatura [TMP36]
+* Ponte H L293D
+* Decodificador de sete segmentos
+* Fonte de energia para motores
+* 2 Motor CC 
 
 ## Screenshots
 
 <div>
-<img height="380" src="prototipo\img\prototipov2.gif" />
+<img height="380" src="prototipo\img\circuito2.png" />
 </div>

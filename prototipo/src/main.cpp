@@ -15,8 +15,6 @@ int F = 12;
 int G = 13;
 int DP = 0;
 
-
-
 void setup()
 {
   Serial.begin(9600);
