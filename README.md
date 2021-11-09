@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](prototipo/img/banner_automacao.png)
 
     
 # Prototipo de Automação de Esteira de Fabrica
@@ -27,5 +27,5 @@ quando a temperatura estiver acima de 10°C.
 ## Screenshots
 
 <div>
-<img height="380" src="prototipo\img\circuito2.png" />
+<img height="380" src="prototipo\img\prototipov3.gif" />
 </div>
