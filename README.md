@@ -28,4 +28,5 @@ quando a temperatura estiver acima de 10°C.
 
 <div>
 <img height="380" src="prototipo\img\prototipov3.gif" />
+<img height="380" src="prototipo\img\prototipov3.gif" />
 </div>
